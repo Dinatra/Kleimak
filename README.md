@@ -1,5 +1,9 @@
 ### Hi there 👋
-
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/byjokese/code-stats-embedded@latest/dist/codestatsembedded.min.css" />
+<script src="https://cdn.jsdelivr.net/gh/byjokese/code-stats-embedded@latest/dist/codestatsembedded.min.js"></script>
+<script>
+  CodeStatsEmbed("ContainerSelector", "Kleimak");
+</script>
 <!--
 **kleimak/Kleimak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
